@@ -13,7 +13,7 @@ A simple React app for keeping track of your favorite recipes — add new ones, 
 
 ## Screenshot
 
-![Recipe Box](./assets/recipe-box-project-screenshot.png)
+![Recipe Box](./src/assets/recipe-box-project-screenshot.png)
 
 ## Features
 
