@@ -89,7 +89,9 @@ function App() {
       (key) => !newRecipe[key].trim(),
     );
     if (missing.length > 0) {
-      setErrorMessage(`Please fill in mandatory fields: ${missing.join(", ")}`);
+      setErrorMessage(
+        `Please fill in mandatory field${missing.length > 1 ? "s" : ""}: ${missing.join(", ")}`,
+      );
       return;
     }
     setRecipes((prevRecipes) => [
