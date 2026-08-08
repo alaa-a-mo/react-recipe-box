@@ -44,7 +44,7 @@ A simple React app for keeping track of your favorite recipes — add new ones, 
 
    ```bash
    git clone https://github.com/alaa-a-mo/react-recipe-box.git
-   cd recipe-box
+   cd react-recipe-box
    ```
 
 2. Install dependencies
