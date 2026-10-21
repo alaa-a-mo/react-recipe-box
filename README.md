@@ -15,6 +15,10 @@ A simple React app for keeping track of your favorite recipes — add new ones, 
 
 ![Recipe Box](./src/assets/recipe-box-project-screenshot.png)
 
+## Try it
+
+Open the [live demo](https://react-recipe-box.vercel.app/)
+
 ## Features
 
 - 📖 Browse recipes in a responsive card grid
